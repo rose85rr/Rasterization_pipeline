@@ -1,2 +1,2 @@
 # Rasterization_pipeline
-將物體投影到二為平面上
+將三維空間的角錐投影到二維平面上
